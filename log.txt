@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/63949978/running-playwright-in-azure-function 
